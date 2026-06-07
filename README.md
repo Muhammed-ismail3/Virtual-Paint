@@ -146,13 +146,3 @@ Virtual-Painter/
 * Real-time object tracking demonstrations
 * Human-computer interaction experiments
 
----
-
-## 🎯 Future Improvements
-
-* Add an eraser tool.
-* Save drawings as image files.
-* Support additional colors.
-* Implement brush size control.
-* Add a dedicated virtual canvas window.
-* Improve tracking robustness with morphological operations.
